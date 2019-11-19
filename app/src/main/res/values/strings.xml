@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">guia7LabMoviles</string>
+    <string name="label_Jugar">Jugar</string>
+    <string name="label_Puntaje">Puntaje</string>
+    <string name="label_Respuesta">Respuesta</string>
+    <string name="label_MisDatos">Mis Datos</string>
+    <string name="label_Configuracion">Configuracion</string>
+
+    <string name="jugar">Jugar</string>
+    <string name="verPuntaje">Ver Puntaje</string>
+    <string name="verRespuesta">Ver Respuesta Correcta</string>
+    <string name="misDatos">Mis Datos</string>
+
+    <string name="labelNombre">Nombre: \n Sandra Yamileth Sandoval Molina</string>
+    <string name="labelCodigo">Codigo: \n SM16-I04-001</string>
+
+    <string name="labelRespuesta">Respuesta Correcta es:</string>
+    <string name="labelDato">0</string>
+
+    <string name="labelAdivinar">Respuesta</string>
+    <string name="botonAdivinar">Adivinar</string>
+    <string name="labelPuntuacion">Puntuacion Actual:</string>
+    <string name="labelUsuario">Usuario:</string>
+
+    <string name="indicacionConfig">Configuracion de Nombre de Usuario</string>
+    <string name="label_Usuario">Usuario</string>
+    <string name="boton_Guardar">Guardar</string>
+    <string name="indicacion_Juego">Intenta adivinar el número</string>
+</resources>
